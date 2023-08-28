@@ -14,13 +14,13 @@
         <ul slot="stock-images">
             <p>stock images provided from:</p>
             <li>
-                <a href="https://unsplash.com/de/@l_oan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Loan</a> auf <a href="https://unsplash.com/de/fotos/7AIDE8PrvA0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+                <!-- <a href="https://unsplash.com/de/@l_oan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Loan</a> auf <a href="https://unsplash.com/de/fotos/7AIDE8PrvA0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
             </li>
             <li>
-                <a href="https://unsplash.com/de/@raouldroog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Raoul Droog</a> auf <a href="https://unsplash.com/de/fotos/yMSecCHsIBc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+                <!-- <a href="https://unsplash.com/de/@raouldroog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Raoul Droog</a> auf <a href="https://unsplash.com/de/fotos/yMSecCHsIBc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
             </li>
             <li>
-                <a href="https://unsplash.com/de/@lettherebelight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex D.</a> auf <a href="https://unsplash.com/de/fotos/J93PXpBPCFI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+                <!-- <a href="https://unsplash.com/de/@lettherebelight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex D.</a> auf <a href="https://unsplash.com/de/fotos/J93PXpBPCFI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
             </li>
         </ul>
     </Footer>
