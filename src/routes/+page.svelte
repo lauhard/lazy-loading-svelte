@@ -73,7 +73,7 @@
             </p>
         </div>
         <div class="item">
-            <img data-src="./cat2.jpg" alt="cat2" srcset="" />
+            <img data-src="{cat2}" alt="cat2" srcset="" />
             <div class="placeholder" />
         </div>
         <div class="item">
