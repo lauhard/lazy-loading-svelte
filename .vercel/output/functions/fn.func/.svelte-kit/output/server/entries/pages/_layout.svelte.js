@@ -19,7 +19,7 @@ const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css);
   return `<div class="app svelte-eokzmh"><main class="svelte-eokzmh">${slots.default ? slots.default({}) : ` `}</main> ${validate_component(Footer, "Footer").$$render($$result, {}, {}, {
     "stock-images": () => {
-      return `<ul slot="stock-images" data-svelte-h="svelte-att08s"><p>stock images provided from:</p> <li class="svelte-eokzmh"><a href="https://unsplash.com/de/@l_oan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Loan</a> auf <a href="https://unsplash.com/de/fotos/7AIDE8PrvA0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></li> <li class="svelte-eokzmh"><a href="https://unsplash.com/de/@raouldroog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Raoul Droog</a> auf <a href="https://unsplash.com/de/fotos/yMSecCHsIBc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></li> <li class="svelte-eokzmh"><a href="https://unsplash.com/de/@lettherebelight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex D.</a> auf <a href="https://unsplash.com/de/fotos/J93PXpBPCFI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></li></ul>`;
+      return `<ul slot="stock-images" data-svelte-h="svelte-19ovsft"><p>stock images provided from:</p> <li class="svelte-eokzmh"></li> <li class="svelte-eokzmh"></li> <li class="svelte-eokzmh"></li></ul>`;
     }
   })} </div>`;
 });

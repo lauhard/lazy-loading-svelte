@@ -1,5 +1,6 @@
 import { c as create_ssr_component, d as add_attribute } from "../../chunks/ssr.js";
 const cat1 = "/_app/immutable/assets/cat1.5db0d38e.jpg";
+const cat2 = "/_app/immutable/assets/cat2.52f67cc6.jpg";
 const cat3 = "/_app/immutable/assets/cat3.8138c3a1.jpg";
 const _page_svelte_svelte_type_style_lang = "";
 const css = {
@@ -8,13 +9,13 @@ const css = {
 };
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css);
-  return `<section class="svelte-152sv9p"><h1 class="svelte-152sv9p" data-svelte-h="svelte-14tpy1f">Lazy loading with SvelteKit</h1> <p class="svelte-152sv9p" data-svelte-h="svelte-1huvnsh">Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> <div class="viewport svelte-152sv9p" data-svelte-h="svelte-hu4of9"><div class="item svelte-152sv9p"><img${add_attribute("data-src", cat1, 0)} alt="cat1" srcset="" class="svelte-152sv9p"> <div class="placeholder svelte-152sv9p"></div></div> <div class="item svelte-152sv9p"><p class="svelte-152sv9p">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+  return `<section class="svelte-152sv9p"><h1 class="svelte-152sv9p" data-svelte-h="svelte-14tpy1f">Lazy loading with SvelteKit</h1> <p class="svelte-152sv9p" data-svelte-h="svelte-1huvnsh">Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> <div class="viewport svelte-152sv9p" data-svelte-h="svelte-11qewn7"><div class="item svelte-152sv9p"><img${add_attribute("data-src", cat1, 0)} alt="cat1" srcset="" class="svelte-152sv9p"> <div class="placeholder svelte-152sv9p"></div></div> <div class="item svelte-152sv9p"><p class="svelte-152sv9p">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 Commodi nostrum inventore, esse, ea animi atque officiis quaerat
                 consequatur magni officia architecto? Aliquid voluptates
                 excepturi, dolor alias iure dolorem voluptatibus impedit.</p></div> <div class="item svelte-152sv9p"><p class="svelte-152sv9p">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 Blanditiis at iure, illo accusamus vitae veniam modi ullam
                 commodi magni excepturi voluptatum nostrum omnis veritatis. Sed
-                labore ducimus odit voluptatibus illum.</p></div> <div class="item svelte-152sv9p"><img data-src="./cat2.jpg" alt="cat2" srcset="" class="svelte-152sv9p"> <div class="placeholder svelte-152sv9p"></div></div> <div class="item svelte-152sv9p"><p class="svelte-152sv9p">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                labore ducimus odit voluptatibus illum.</p></div> <div class="item svelte-152sv9p"><img${add_attribute("data-src", cat2, 0)} alt="cat2" srcset="" class="svelte-152sv9p"> <div class="placeholder svelte-152sv9p"></div></div> <div class="item svelte-152sv9p"><p class="svelte-152sv9p">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Laborum, dolor! Ullam officia amet autem expedita veritatis
                 perferendis. Nam debitis modi quisquam labore beatae qui,
                 nostrum quas vero cum placeat veniam!</p></div> <div class="item svelte-152sv9p"><p class="svelte-152sv9p">Lorem ipsum dolor sit amet consectetur adipisicing elit.
